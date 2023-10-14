@@ -1,0 +1,27 @@
+{
+	"roots" : [
+		{
+			"id" : "edit",
+			"title" : "Edit",
+			"isLeaf" : false,
+			"subGroup" : [
+				{
+					"id" : "cut",
+					"title" : "Cut",
+					"isLeaf" : true,
+					"subGroup" : null
+				}, {
+					"id" : "copy",
+					"title" : "Copy",
+					"isLeaf" : true,
+					"subGroup" : null
+				}, {
+					"id" : "paste",
+					"title" : "Paste",
+					"isLeaf" : true,
+					"subGroup" : null
+				}
+			]
+		}
+	]
+}

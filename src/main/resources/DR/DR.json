@@ -1,0 +1,27 @@
+{
+	"roots" : [
+		{
+			"id" : "file",
+			"title" : "File",
+			"isLeaf" : false,
+			"subGroup" : [
+				{
+					"id" : "file",
+					"title" : "Save",
+					"isLeaf" : true,
+					"subGroup" : null
+				}, {
+					"id" : "file",
+					"title" : "Save As",
+					"isLeaf" : true,
+					"subGroup" : null
+				}, {
+					"id" : "file",
+					"title" : "Save All",
+					"isLeaf" : true,
+					"subGroup" : null
+				}
+			]
+		}
+	]
+}

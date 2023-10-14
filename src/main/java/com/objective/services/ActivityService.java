@@ -26,7 +26,7 @@ public class ActivityService {
     }
 
     public ActivityResponse activity(String name) {
-        Activity activity = activityRepository.findByName(name);
+        Activity activity = activityRepository.findByActivity(name);
         return Converter.toPayload(activity);
     }
 
